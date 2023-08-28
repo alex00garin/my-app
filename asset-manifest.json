@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alex00garin/my-app/static/css/main.b7bbbef5.css",
+    "main.js": "/alex00garin/my-app/static/js/main.3e0515d3.js",
+    "static/media/personal-image.png": "/alex00garin/my-app/static/media/personal-image.3b8532aedc76285e782c.png",
+    "index.html": "/alex00garin/my-app/index.html",
+    "main.b7bbbef5.css.map": "/alex00garin/my-app/static/css/main.b7bbbef5.css.map",
+    "main.3e0515d3.js.map": "/alex00garin/my-app/static/js/main.3e0515d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7bbbef5.css",
+    "static/js/main.3e0515d3.js"
+  ]
+}
